@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "stdio.h": "c",
+    "corecrt.h": "c",
+    "time.h": "c",
+    "limits.h": "c",
+    "chrono": "c",
+    "random": "c",
+    "limits": "c",
+    "valarray": "c",
+    "strings.h": "c",
+    "*.tcc": "c",
+    "bitset": "c",
+    "string_view": "c",
+    "algorithm": "c",
+    "istream": "c",
+    "numeric": "c",
+    "ranges": "c"
+  }
+}
